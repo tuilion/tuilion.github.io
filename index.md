@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Tuilion
+title: Welcome
 ---
 
 # Tuilion Blog
 
-Coming soon.
+Fragments at dawn. Thoughts at dusk.
