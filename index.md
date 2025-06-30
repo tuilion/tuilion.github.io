@@ -3,6 +3,6 @@ layout: home
 title: Welcome
 ---
 
-# Tuilion Blog
+# Welcome to Tuilion
 
-Fragments at dawn. Thoughts at dusk.
+This is a minimalist anonymous blog using GitHub Pages + Jekyll.
