@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: default
 title: Welcome
 ---
 
-# Welcome to Tuilion
+# Tuilion Blog
 
-This is a minimalist anonymous blog using GitHub Pages + Jekyll.
+Fragments at dawn. Thoughts at dusk.
