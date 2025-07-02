@@ -20,4 +20,4 @@ This blog is a logbook. If you're following a similar path — away from institu
 - Reflections from someone leaving the old world behind
 
 ### If you want to reach out:
-📬 **tuilion.amaurele@gmail.com**
+📬 tuilion[dot]amaurele[at]gmail[dot]com
