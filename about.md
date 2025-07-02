@@ -19,4 +19,5 @@ This blog is a logbook. If you're following a similar path — away from institu
 - Notes on cybersecurity, Linux, and digital infrastructure
 - Reflections from someone leaving the old world behind
 
-Fragments at dawn. Thoughts at dusk.
+### If you want to reach out:
+📬 **tuilion.amaurele@gmail.com**
