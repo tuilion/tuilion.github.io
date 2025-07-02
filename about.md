@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About
-
 **Tuilion** is a quiet blog about building tools, learning cybersecurity, and walking away from the performance theatre of academia.
 
 I’m not here to teach, go viral, or build a “personal brand.” I write to think — to track what I build, what I break, and what I learn along the way.
