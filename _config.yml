@@ -1,12 +1,11 @@
 title: tuilion
+description: Cyber, code, and quiet thinking.
+author: tuilion
 email: tuilion.amaruele@gmail.com
-description: >-
-  Fragments at dawn. Thoughts at dusk.
 
-baseurl: "" # for GitHub Pages user site
-url: "https://tuilion.github.io"
+theme: minima
 
-theme: jekyll-theme-minimal
+markdown: kramdown
 
 plugins:
   - jekyll-feed
