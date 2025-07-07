@@ -1,17 +1,15 @@
 ---
-layout: home
-title: Tuilion Blog
+layout: default
 ---
 
-## Latest Posts
+{% assign recent_posts = site.posts | slice: 0, 3 %}
 
-<ul>
-  {% for post in site.posts limit:3 %}
-    <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
-    </li>
-  {% endfor %}
-</ul>
-
-<p><a href="/archive.html">→ Full archive</a></p>
+{% for post in recent_posts %}
+<div style="margin-bottom: 2em;">
+  <h2 style="margin-bottom: 0.2em;">{{ post.title }}</h2>
+  <p><small>{{ post.date | date: "%b %-d, %Y" }}</small></p>
+  <div>
+    {{ post.content | strip_html | truncatewords: 50 }}
+  </div>
+</div>
+{% endfor %}
