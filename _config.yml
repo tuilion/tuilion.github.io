@@ -1,0 +1,13 @@
+title: tuilion
+email: tuilion.amaruele@gmail.com
+description: >-
+  Fragments at dawn. Thoughts at dusk.
+
+baseurl: "" # for GitHub Pages user site
+url: "https://tuilion.github.io"
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
