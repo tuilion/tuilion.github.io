@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 {% assign recent_posts = site.posts | slice: 0, 3 %}
