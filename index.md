@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: custom_home
 ---
 
 <h2>Recent Posts</h2>
