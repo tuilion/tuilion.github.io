@@ -2,7 +2,6 @@
 layout: custom_home
 ---
 
-<h2>Recent Posts</h2>
 <ul>
   {% for post in site.posts limit:3 %}
     <li>
