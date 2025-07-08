@@ -11,6 +11,3 @@ plugins:
 
 header_pages:
   - about.md
-
-sass:
-  style: compressed
