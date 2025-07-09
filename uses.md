@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uses
+title: ""
 permalink: /uses/
 ---
 
@@ -10,7 +10,7 @@ A running list of the tools, gear, workflows, and mental states I rely on daily 
 
 ---
 
-## 💻 Hardware
+### 💻 Hardware
 - **MacBook Air 15 M4** – used for study, quiet coding with Python, and light automation
 - **Desktop PC** – Windows 11, 1440p monitor (160Hz), RTX 3060 Ti – used for heavy-lifting VMs and home office
 - **Samsung Galaxy S23+** – ChatGPT conversations and social media
@@ -19,7 +19,7 @@ A running list of the tools, gear, workflows, and mental states I rely on daily 
 
 ---
 
-## 🧰 Software & Tools
+### 🧰 Software & Tools
 - **Terminal** – `zsh`
 - **Git & GitHub** – for code, blog repo, and project logs
 - **ChatGPT** – daily assistant, project feedback, Python help
@@ -28,7 +28,7 @@ A running list of the tools, gear, workflows, and mental states I rely on daily 
 
 ---
 
-## 🧠 Workflows & Systems
+### 🧠 Workflows & Systems
 - **Daily structure**:
   - 3 days/week Python (5–6h/day), 3 days/week cybersecurity (TryHackMe + books)
   - Nightly blog writing (aim: publish each Sunday)
@@ -38,7 +38,7 @@ A running list of the tools, gear, workflows, and mental states I rely on daily 
 
 ---
 
-## 🔐 Cybersecurity Stack (Learning)
+### 🔐 Cybersecurity Stack (Learning)
 - **TryHackMe** – Cyber Security 101 path
 - **The Web Application Hacker’s Handbook** – theory + lab work
 - **ungoogled Chromium** – privacy-focused browser setup
@@ -46,7 +46,7 @@ A running list of the tools, gear, workflows, and mental states I rely on daily 
 
 ---
 
-## 🧠 Mental Systems
+### 🧠 Mental Systems
 - Builder-first mindset — not into PR or social media
 - Thrive on structure; avoid small goals unless part of a bigger mission
 - Identity reset post-PhD – shifting from academic to practical, creative, and independent
