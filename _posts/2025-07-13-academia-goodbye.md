@@ -2,15 +2,17 @@
 layout: post
 title: "Academia goodbye!"
 date: 2025-07-13
+excerpt: I was at a party - coincidentally, my birthday party. For over a year, I had been
+thinking things over. I was going back and forth in my head, feeling stuck in the same
+surroundings, often unmotivated and frustrated. But quitting? That never seemed like a real
+option. Until that one moment when a single, quiet thought hit me...
 ---
  
 _A personal transition from academic life to something more free, more real._
 
 #### The Realisation
 
-I was at a party - coincidentally, my birthday party. For over a year, I had been thinking things over. I was going back and forth in my head, feeling stuck in the same surroundings, often unmotivated and frustrated. But quitting? That never seemed like a real option. Until that one moment when a single, quiet thought hit me.
-
-<!--more-->
+I was at a party - coincidentally, my birthday party. For over a year, I had been thinking things over. I was going back and forth in my head, feeling stuck in the same surroundings, often unmotivated and frustrated. But quitting? That never seemed like a real option. Until that one moment when a single, quiet thought hit me:
 
 **“I can quit my job.”**
 
