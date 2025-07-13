@@ -8,7 +8,7 @@ layout: custom_home
       <h3>{{ post.title }}</h3>
       <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
       <p>
-        {{ post.excerpt }}
+        {{ post.excerpt | markdownify }}
       </p>
     </li>
   {% endfor %}
