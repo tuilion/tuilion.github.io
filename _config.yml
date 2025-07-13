@@ -12,3 +12,5 @@ plugins:
 header_pages:
   - about.md
   - uses.md
+
+excerpt_separator: "<!--more-->"

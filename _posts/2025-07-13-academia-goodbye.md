@@ -8,7 +8,9 @@ _A personal transition from academic life to something more free, more real._
 
 #### The Realisation
 
-I was at a party - coincidentally, my birthday party. For over a year, I had been thinking things over. I was going back and forth in my head, feeling stuck in the same surroundings, often unmotivated and frustrated. But quitting? That never seemed like a real option. Until that one moment when a single, quiet thought hit me:  
+I was at a party - coincidentally, my birthday party. For over a year, I had been thinking things over. I was going back and forth in my head, feeling stuck in the same surroundings, often unmotivated and frustrated. But quitting? That never seemed like a real option. Until that one moment when a single, quiet thought hit me:
+<!--more-->
+
 **“I can quit my job.”**
 
 It wasn’t emotional or dramatic - it was calm, obvious, and sharp. From that moment, something shifted. My mind woke up and began spinning with new possibilities. The next day, the next week, the next month - everything felt different. I started actively exploring what I wanted from life, what I enjoyed doing, and where I could go next.
