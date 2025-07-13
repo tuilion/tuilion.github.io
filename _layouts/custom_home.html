@@ -5,11 +5,11 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts limit:5 %}
       <li>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>
-        <p>{{ post.content | strip_html | truncatewords: 80 }}</p>
+        <p>{{ post.excerpt | markdownify }}</p>
       </li>
     {% endfor %}
   </ul>
