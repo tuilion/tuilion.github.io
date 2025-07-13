@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Academia goodbye!"
-date: 2025-07-07
+date: 2025-07-13
 ---
 
 ## Why I Decided to Leave Academia  
