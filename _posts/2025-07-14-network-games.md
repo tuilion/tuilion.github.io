@@ -3,7 +3,7 @@ layout: post
 title: "Network games."
 date: 2025-07-14
 excerpt: "The other day I was reading about _piping_ on Unix with `|`, and while creating a new
-`.md` file for this blog post, I used `cp 2025-07-13-academia-goodbye.md 2025-07-14-network-games.md | subl 2025-07-14-network-games.md` in my Mac terminal"
+`.md` file for this blog post, I used `cp 2025-07-13-academia-goodbye.md 2025-07-14-network-games.md | subl 2025-07-14-network-games.md` in my Mac terminal..."
 ---
  
 The other day I was reading about _piping_ on Unix with `|`, and while creating a new `.md` file for this blog post, I used `cp 2025-07-13-academia-goodbye.md 2025-07-14-network-games.md | subl 2025-07-14-network-games.md` in my Mac terminal. Anyway, I was feeling so smart until ChatGPT informed me that actually this was not necessary because "`cp` carries nothing". Basically `|` does nothing, except enabling me to write the command in one line. Well... you learn...
@@ -32,12 +32,14 @@ We can see that there are multiple unknown devices on my network. So... what? ðŸ
 3. Piping with `|` is sometimes redundant. ðŸ˜‚
 
 #### Next steps
-I will continue learning about networks,. I want to deepen my knowledge to be able to use it in real-life, especially at home. Also, I plan to build a **network-scanner** with Python that will be able to:
+I will continue learning about networks. I want to deepen my knowledge to be able to use it in real-life, especially at home. Also, I plan to build a **network-scanner** with Python that will be able to:
 1. Scan my network every 30 seconds.
 2. Log the scans into a .txt file.
 3. Report if there are any unusual devices connected to the network.
 
 This will be an exercise in Python, in networking, and in cybersecurity.
+
+_Post-scriptum:_ This was a quick exercise, I am aware there are also other devices on my network that could be looked up and discovered. Thats for next time.
 
 ---
 
