@@ -12,7 +12,7 @@ The other day I was reading about _piping_ on Unix with `|`, and while creating 
 While learning networking on TryHackMe a few days ago, I learned about ARP packets and network scanning, MAC addresses, and of course I was curious to see what devices are currently attached to my home network, so I did a quick `sudo arp-scan`. What I found out was interesting. First of all, I had several `Unknown` devices on my network, and secondly, some of the devices appeared and disappeared when I scanned the network multiple times. Below is the image which illustrates this behaviour.
 
 <p align="center">
-  <img src="/_posts/assets/2025-07-14-network-scan.png" alt="ARP scan results" width="600"/>
+  <img src="/assets/2025-07-14-network-scan.png" alt="ARP scan results" width="600"/>
   <br>
   <em>ARP-scan showing connected devices on my LAN</em>
 </p>
@@ -20,7 +20,7 @@ While learning networking on TryHackMe a few days ago, I learned about ARP packe
 We can see that there are multiple unknown devices on my network. So... what? 😄 Next, I used `nslookup` to actually find the names of the devices, and _voila_ all the locally administered unknowns are actually Android phones!
 
 <p align="center">
-  <img src="/_posts/assets/2025-07-14-network-android-devices.png" alt="nslookup results" width="600"/>
+  <img src="/assets/2025-07-14-network-android-devices.png" alt="nslookup results" width="600"/>
   <br>
   <em>nslookup results showing the names of "unknown" devices</em>
 </p>
