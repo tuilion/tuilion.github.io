@@ -42,7 +42,7 @@ A running list of the tools, gear, workflows, and mental states I rely on daily 
 #### 🧠 Mental Systems
 - **Builder-first** mindset — not into PR or social media
 - Thrive on **structure**; avoid small goals unless part of a bigger mission
-- Identity reset post-PhD 🤓 – shifting from academic to practical, creative, and independent
+- **Identity** reset post-PhD 🤓 – shifting from academic to practical, creative, and independent
 - **Blogging** as grounding ritual – 15–30 mins/night
 - *Short-term plan*: freelance + projects; long-term: remote cybersecurity role + freedom
 
