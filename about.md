@@ -19,21 +19,17 @@ If that resonates, you're welcome to follow along.
 
 📬 Contact: tuilion[dot]amaruele[at]gmail[dot]com
 
-<div class="wrapper" style="margin-top: 2em;">
+<p style="margin-top: 2em;">If you'd like, you can subscribe here:</p>
 
-  <p style="margin-bottom: 0.5em;">If you'd like, you can subscribe here:</p>
+<form action="https://buttondown.email/api/emails/embed-subscribe/tuilion"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/tuilion', 'popupwindow')"
+      class="embeddable-buttondown-form"
+      style="margin-top: 0.5em;">
 
-  <form action="https://buttondown.email/api/emails/embed-subscribe/tuilion"
-        method="post"
-        target="popupwindow"
-        onsubmit="window.open('https://buttondown.email/tuilion', 'popupwindow')"
-        class="embeddable-buttondown-form"
-        style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.5em; max-width: 500px;">
-
-    <label for="bd-email" style="margin-right: 0.5em;">Enter your email</label>
-    <input type="email" name="email" id="bd-email" placeholder="you@example.com" required
-           style="padding: 0.4em; flex: 1; min-width: 200px;">
-    <input type="submit" value="Subscribe" style="padding: 0.4em 1em;">
-
-  </form>
-</div>
+  <label for="bd-email">Enter your email</label><br>
+  <input type="email" name="email" id="bd-email" placeholder="you@example.com" required
+         style="padding: 0.4em; width: 250px; margin-top: 0.5em;"><br>
+  <input type="submit" value="Subscribe" style="padding: 0.4em 1em; margin-top: 0.5em;">
+</form>
