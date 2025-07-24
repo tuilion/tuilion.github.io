@@ -17,7 +17,7 @@ It's about **building a life that fits me better**.
 I believe in strong fundamentals, curiosity-driven work, and getting my hands dirty.  
 If that resonates, you're welcome to follow along.
 
-📬 Contact: tuilion[dot]amaruele[at]gmail[dot]com
+📬 Contact: tuilion[dot]amaurele[at]gmail[dot]com
 
 <p style="margin-top: 2em;">If you'd like, you can subscribe here:</p>
 
