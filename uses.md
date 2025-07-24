@@ -9,10 +9,10 @@ A running list of the tools, gear, workflows, and mental states I rely on daily 
 
 #### 💻 Hardware
 - **MacBook Air 15 M4** – used for study, quiet coding with Python, and light automation
-- **Desktop PC** – Windows 11, 1440p monitor (160Hz), RTX 3060 Ti – used for heavy-lifting VMs and home office
+- **Gaming Rig** – RTX 3060Ti (_more specs coming soon_)
 - **Samsung Galaxy S23+** – ChatGPT conversations and social media
 - **Walking pad** – for staying active during podcasts, learning, and some coding sessions
-- **Headphones** – _brand and model coming soon_
+- **Headphones** – 1MORE SonoFlow PRO
 
 
 #### 🧰 Software & Tools
