@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Uses"
+title: Uses
 permalink: /uses/
 ---
 
