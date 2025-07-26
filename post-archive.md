@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Post Archive"
+title: Archive
 permalink: /post-archive/
 ---
 
