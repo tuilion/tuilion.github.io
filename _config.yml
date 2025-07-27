@@ -12,3 +12,4 @@ plugins:
 header_pages:
   - about.md
   - uses.md
+  - archive.md

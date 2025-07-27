@@ -4,7 +4,6 @@ title: Archive
 permalink: /archive/
 ---
 
-<h1>Archive</h1>
 
 <ul>
   {% for post in site.posts %}
