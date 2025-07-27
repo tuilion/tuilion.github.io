@@ -8,7 +8,7 @@ excerpt: "The other day I was reading about _piping_ on Unix with `|`, and while
  
 The other day I was reading about _piping_ on Unix with `|`, and while creating a new `.md` file for this blog post, I used `cp 2025-07-13-academia-goodbye.md 2025-07-14-network-games.md | subl 2025-07-14-network-games.md` in my Mac terminal. Anyway, I was feeling pretty smart - until ChatGPT pointed out that this was not necessary because "`cp` carries nothing". Basically, in this situation `|` does nothing, except enabling me to write the command in one line. Well... you learn...
 
-#### Network curiosities
+### Network curiosities
 While learning networking on TryHackMe a few days ago, I learned about ARP packets and network scanning, MAC addresses, and of course I was curious to see what devices are currently attached to my home network, so I did a quick `sudo arp-scan`. What I found was suprisingly interesting. First of all, I had several `unknown` devices on my network, and secondly, some devices appeared and disappeared between scans. Below is the image which illustrates this behaviour.
 
 <p align="center">
@@ -25,13 +25,13 @@ We can see that there are multiple unknown devices on my network. So... what? ðŸ
   <em>nslookup results showing the names of "unknown" devices</em>
 </p>
 
-#### Lessons learned
+### Lessons learned
 
 1. Android phones show up as `unknown` when using `arp-scan`.
 2. Android phones connect and disconnect from the network - probably to conserve battery power.
 3. Piping with `|` is sometimes redundant. ðŸ˜‚
 
-#### Next steps
+### Next steps
 I will continue learning about networks. I want to deepen my knowledge to be able to use it in real-life, especially at home. Also, I plan to build a Python-based network scanner that will be able to:
 1. Scan my network every 30 seconds.
 2. Log the scans into a .txt file.
