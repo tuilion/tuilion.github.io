@@ -6,6 +6,7 @@ permalink: /uses/
 
 A running list of the tools, gear, workflows, and mental states I rely on daily — updated regularly as my life evolves.
 
+_Last updated: 2025-07-27_
 
 #### 💻 Hardware
 - **MacBook Air 15 M4** – used for study, quiet coding with Python, and light automation
@@ -50,7 +51,3 @@ A running list of the tools, gear, workflows, and mental states I rely on daily 
 - **Identity** reset post-PhD 🤓 – shifting from academic to practical, creative, and independent
 - **Blogging** as grounding ritual – 15–30 mins/night
 - *Short-term plan*: freelance + projects; long-term: remote cybersecurity role + freedom
-
----
-
-_Last updated: 2025-07-09_
