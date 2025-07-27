@@ -9,7 +9,12 @@ A running list of the tools, gear, workflows, and mental states I rely on daily 
 
 #### 💻 Hardware
 - **MacBook Air 15 M4** – used for study, quiet coding with Python, and light automation
-- **Gaming Rig** – RTX 3060Ti (_more specs coming soon_)
+- **Gaming Rig**
+  - Processor: AMD Ryzen 5 5600X
+  - GPU: RTX 3060Ti 🚀
+  - RAM: GSkill Trident Z 32GB @ 3600 MHz
+  - Motherboard: ASUS TUF GAMING B550M-PLUS
+  - Disks: WD Black SN750 NVMe SSD 1TB + Toshiba 16TB HDD x2 💾
 - **Samsung Galaxy S23+** – ChatGPT conversations and social media
 - **Walking pad** – for staying active during podcasts, learning, and some coding sessions
 - **Headphones** – 1MORE SonoFlow PRO
