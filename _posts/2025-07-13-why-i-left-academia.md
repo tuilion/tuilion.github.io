@@ -57,4 +57,4 @@ Instead, I hope I’ll look back at this moment and smile. I hope I’ll be grat
 
 ---
 
-**Until next time, embrace the realisation.**
+_Until next time, embrace the realisation._

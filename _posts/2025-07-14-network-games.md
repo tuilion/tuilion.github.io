@@ -43,4 +43,4 @@ _Post-scriptum:_ This was a quick exercise, I am aware there are also other devi
 
 ---
 
-**Until next time, happy network scanning.**
+_Until next time, happy network scanning._

@@ -33,3 +33,7 @@ def slow_print(text, delay):
 		time.sleep(delay)
 	print()
 ```
+
+---
+
+_Meaning of Life: 42 or 37?_
