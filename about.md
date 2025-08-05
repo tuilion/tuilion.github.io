@@ -14,12 +14,13 @@ This blog documents my transition from academic life to building tools, learning
 It's not about grand visions or quick wins.  
 It's about **building a life that fits me better**.
 
-I believe in strong fundamentals, curiosity-driven work, and getting my hands dirty.  
-If that resonates, you're welcome to follow along.
+I believe in strong fundamentals, curiosity-driven work, and getting my hands dirty.
 
 📬 Contact: tuilion[dot]amaurele[at]gmail[dot]com
 
-<p style="margin-top: 2em;">If you'd like, you can subscribe here:</p>
+<p style="margin-top: 2em;">🛠️ Want to follow this journey?
+I write once or twice a month about building tools, learning cyber, and quitting the noise.
+Subscribe if you're into code, clarity, and transformation.</p>
 
 <form action="https://buttondown.email/api/emails/embed-subscribe/tuilion"
       method="post"
