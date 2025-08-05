@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Network games."
+title: "Network games"
 date: 2025-07-14
 excerpt: "The other day I was reading about _piping_ on Unix with `|`, and while creating a new
 `.md` file for this blog post, I used `cp 2025-07-13-academia-goodbye.md 2025-07-14-network-games.md | subl 2025-07-14-network-games.md` in my Mac terminal..."

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I always wanted to make my own game."
+title: "Building My First Game at 37: A Quiet Start"
 date: 2025-07-24
 excerpt: "When I was a teenager, I enjoyed making my own custom maps, mostly tower defences, in Warcraft III map editor. I even managed to finish a map I called 'Small TD' and I played it online with random people. This was a milestone for me. I found out I can build small things and people can enjoy it..."
 ---

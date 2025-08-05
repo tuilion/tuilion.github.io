@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Academia goodbye!"
+title: "Why I Left Academia After a Decade of Silence"
 date: 2025-07-13
 excerpt: "I was at a party - coincidentally, my birthday party. For over a year, I had been
 thinking things over. I was going back and forth in my head, feeling stuck in the same
