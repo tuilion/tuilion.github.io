@@ -3,20 +3,36 @@
 
 @import "minima";
 
+/* Light mode */
+
+body {
+  background-color: #fbf9f4;
+  color: #1a1a1a;
+}
+
+a {
+  color: #0056cc;
+}
+
+a:hover {
+  color: #003d99;
+}
+
+/* Dark mode */
+
 @media (prefers-color-scheme: dark) {
-  body,
-  .wrapper,
-  .page-content,
-  .home,
-  .post-content {
+
+  body {
     background-color: #111;
     color: #ddd;
   }
 
-  a,
-  .post-link,
-  .post-title {
+  a {
     color: #8ab4f8;
+  }
+
+  a:hover {
+    color: #a8c7fa;
   }
 
   .site-header,
