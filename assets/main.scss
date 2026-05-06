@@ -4,12 +4,18 @@
 @import "minima";
 
 @media (prefers-color-scheme: dark) {
-  body {
+  body,
+  .wrapper,
+  .page-content,
+  .home,
+  .post-content {
     background-color: #111;
     color: #ddd;
   }
 
-  a {
+  a,
+  .post-link,
+  .post-title {
     color: #8ab4f8;
   }
 
@@ -20,13 +26,9 @@
   }
 
   .site-title,
-  .site-title:visited {
+  .site-title:visited,
+  .site-nav .page-link {
     color: #eee;
-  }
-
-  .post-link,
-  .post-title {
-    color: #8ab4f8;
   }
 
   .post-meta {
