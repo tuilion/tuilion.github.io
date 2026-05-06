@@ -3,7 +3,9 @@
 
 @import "minima";
 
-/* Light mode */
+/* =========================
+   Light mode
+========================= */
 
 body {
   background-color: #fbf9f4;
@@ -18,21 +20,21 @@ a:hover {
   color: #003d99;
 }
 
-/* Dark mode */
+a:visited {
+  color: #0056cc;
+}
+
+/* =========================
+   Dark mode
+========================= */
 
 @media (prefers-color-scheme: dark) {
 
-  body {
+  body,
+  .page-content,
+  .home {
     background-color: #111;
     color: #ddd;
-  }
-
-  a {
-    color: #8ab4f8;
-  }
-
-  a:hover {
-    color: #a8c7fa;
   }
 
   .site-header,
@@ -47,7 +49,29 @@ a:hover {
     color: #eee;
   }
 
+  a,
+  a:visited,
+  .post-link,
+  .post-title {
+    color: #8ab4f8;
+  }
+
+  a:hover {
+    color: #a8c7fa;
+  }
+
   .post-meta {
     color: #aaa;
+  }
+
+  code,
+  pre {
+    background-color: #222;
+    color: #eee;
+    border-color: #444;
+  }
+
+  .highlighter-rouge .highlight {
+    background-color: #222;
   }
 }
