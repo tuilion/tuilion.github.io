@@ -3,29 +3,6 @@
 
 @import "minima";
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #111;
-    color: #ddd;
-  }
-
-  a {
-    color: #8ab4f8;
-  }
-
-  .site-header,
-  .site-footer {
-    background-color: #111;
-    border-color: #333;
-  }
-
-  .site-title,
-  .site-title:visited {
-    color: #eee;
-  }
-
-  .post-title,
-  .post-link {
-    color: #8ab4f8;
-  }
+body {
+  background: red;
 }
