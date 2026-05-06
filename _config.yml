@@ -1,14 +1,18 @@
 title: tuilion
 description: Cyber, code, and quiet thinking.
 
-theme: minima
+remote_theme: jekyll/minima
 
 markdown: kramdown
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
-header_pages:
-  - about.md
-  - posts.md
+minima:
+  skin: auto
+
+  nav_pages:
+    - about.md
+    - posts.md
